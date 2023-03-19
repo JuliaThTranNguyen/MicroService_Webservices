@@ -9,6 +9,7 @@ import Home from "./pages/Home";
 import AddUser from "./users/AddUser";
 import EditUser from "./users/EditUser";
 import ViewUser from "./users/ViewUser";
+import Footer from "./layout/Footer";
 
 
 
@@ -26,6 +27,8 @@ function App() {
                 <Route exact path='/view/:id' element={<ViewUser />}/>
             </Routes>
         </Router>
+
+        <Footer/>
 
     </div>
   );
