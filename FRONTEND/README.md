@@ -37,18 +37,23 @@ This Module will cover the React Application for Client Side.
     
     ### Proof of Complement
         - Fetching all data from Springboot Server:
+        
     ![Screenshot from 2023-03-16 21-22-10](https://user-images.githubusercontent.com/49017322/226147076-aeeb4035-adb4-43db-a155-d2df04405dbf.png)
     
     - Creating new method (VIEW/DELETE/EDIT)
+    
     ![Screenshot from 2023-03-18 22-49-28](https://user-images.githubusercontent.com/49017322/226147104-b2e7471e-02de-489f-ad60-819cb896d9b6.png)
     
     - Create new Account 
+    
     ![Screenshot from 2023-03-18 22-50-10](https://user-images.githubusercontent.com/49017322/226147123-9e56a5f9-1551-4705-983a-5478ee3520b9.png)
     
     - Edit account by id
+    
     ![Screenshot from 2023-03-18 22-49-51](https://user-images.githubusercontent.com/49017322/226147134-7bf57599-57e6-4106-82ba-335607df4fee.png)
     
     - View account in details
+    
 ![Screenshot from 2023-03-18 22-49-41](https://user-images.githubusercontent.com/49017322/226147141-6b265a88-4fe5-4ab1-92a8-52e356b4afae.png)
 
 
