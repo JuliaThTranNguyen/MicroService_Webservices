@@ -35,29 +35,31 @@ This Module will cover the React Application for Client Side.
     - NodeJS
     - PostgreSQL
     
-    ### Proof of Complement
+ ### Proof of Complement
         - Fetching all data from Springboot Server:
         
-    ![Screenshot from 2023-03-16 21-22-10](https://user-images.githubusercontent.com/49017322/226147076-aeeb4035-adb4-43db-a155-d2df04405dbf.png)
+ ![Screenshot from 2023-03-16 21-22-10](https://user-images.githubusercontent.com/49017322/226147284-3b01939f-444a-45d7-a8ce-2a106a77a66e.png)
+
     
     - Creating new method (VIEW/DELETE/EDIT)
-    
-    ![Screenshot from 2023-03-18 22-49-28](https://user-images.githubusercontent.com/49017322/226147104-b2e7471e-02de-489f-ad60-819cb896d9b6.png)
+![Screenshot from 2023-03-18 22-49-28](https://user-images.githubusercontent.com/49017322/226147287-3a71e721-3a4a-472a-9b69-312dda883d78.png)
+
     
     - Create new Account 
-    
-    ![Screenshot from 2023-03-18 22-50-10](https://user-images.githubusercontent.com/49017322/226147123-9e56a5f9-1551-4705-983a-5478ee3520b9.png)
+![Screenshot from 2023-03-18 22-50-10](https://user-images.githubusercontent.com/49017322/226147291-bc766f61-bb62-4bf5-98e6-8135ae8ddcf0.png)
+
     
     - Edit account by id
     
-    ![Screenshot from 2023-03-18 22-49-51](https://user-images.githubusercontent.com/49017322/226147134-7bf57599-57e6-4106-82ba-335607df4fee.png)
+![Screenshot from 2023-03-18 22-49-51](https://user-images.githubusercontent.com/49017322/226147296-b61c9e88-8825-46c1-a82b-5345e09b1546.png)
+
     
     - View account in details
     
 ![Screenshot from 2023-03-18 22-49-41](https://user-images.githubusercontent.com/49017322/226147141-6b265a88-4fe5-4ab1-92a8-52e356b4afae.png)
 
 
-      ### Heroku Deployment:
+ ### Heroku Deployment:
       [Visit at](https://microservice-th-julia.herokuapp.com/)
 
 
